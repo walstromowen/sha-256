@@ -1,3 +1,9 @@
+/*
+    SHA - 256 Algorithm.
+    Author: Owen Walstrom
+    Date: 10/19/2024
+    
+*/
 #include <iostream>
 #include <vector>
 #include <string>
